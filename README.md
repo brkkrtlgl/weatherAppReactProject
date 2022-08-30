@@ -1,3 +1,10 @@
+![weatherappgif](https://github.com/brkkrtlgl/weatherAppReactProject/blob/main/weather-app.gif)
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
